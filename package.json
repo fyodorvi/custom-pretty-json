@@ -1,0 +1,14 @@
+{
+  "name": "custom-pretty-json",
+  "description": "",
+  "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fyodorvi/custom-pretty-json.git"
+  },
+  "main": "./index.js",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "1.1.3"
+  }
+}
